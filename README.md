@@ -1,0 +1,2 @@
+# desserve-website
+static
